@@ -1,0 +1,27 @@
+body {
+    background-color: #eed0a998;
+    ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    width: 100%;
+}
+
+h1 {
+    color: #c56f50;
+    font-size: 148px;
+    text-align: center;
+}
+
+button {
+    background-color:#868C7B;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 24px;
+    cursor: pointer;
+}
